@@ -1,7 +1,7 @@
 Status: FAILED
-Time Taken: 1668
+Time Taken: 1381
 Size: 0
-Timestamp: Mon Aug 10 11:31:58 IST 2020
+Timestamp: Mon Aug 17 10:15:04 IST 2020
 TestStep: DataDrivenTesting
 Error:java.lang.AssertionError: Cancelling due to failed test step. Expression: (runner.status != com.eviware.soapui.model.testsuite.TestRunner$Status.FAILED)
 
