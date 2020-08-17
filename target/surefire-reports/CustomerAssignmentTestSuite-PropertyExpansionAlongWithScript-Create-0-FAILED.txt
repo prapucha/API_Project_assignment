@@ -1,7 +1,7 @@
 Status: FAILED
-Time Taken: 708
+Time Taken: 635
 Size: 457
-Timestamp: Mon Aug 17 10:15:07 IST 2020
+Timestamp: Mon Aug 17 12:32:05 IST 2020
 TestStep: Create
 
 ----------------- Messages ------------------------------
@@ -19,7 +19,7 @@ Connection : Keep-Alive
 User-Agent : Apache-HttpClient/4.1.1 (java 1.5)
 Host : soap.upskills.in
 Accept-Encoding : gzip,deflate
-Content-Length : 1419
+Content-Length : 1420
 Content-Type : application/soap+xml;charset=UTF-8;action="customerCustomerRepositoryV1Save"
 
 
@@ -28,7 +28,7 @@ Content-Type : application/soap+xml;charset=UTF-8;action="customerCustomerReposi
    <soap:Body>
       <def:customerCustomerRepositoryV1SaveRequest>
          <customer>
-            <email>pravalika6@gmail.com</email>
+            <email>pravalika32@gmail.com</email>
             <firstname>Krishna</firstname>
             <lastname>Mohan</lastname>
             <dob>1994-05-19</dob>
@@ -61,12 +61,12 @@ Response Headers: X-UA-Compatible : IE=edge
 Cache-Control : no-store, no-cache, must-revalidate
 Server : LiteSpeed
 Connection : Keep-Alive
-Set-Cookie : PHPSESSID=add76f0357f951139ab76ce1d56adcf3; expires=Mon, 17-Aug-2020 05:45:33 GMT; Max-Age=3600; path=/; domain=soap.upskills.in; HttpOnly
+Set-Cookie : PHPSESSID=fc05ee2d4f5b8c4cfa53af29f20bd43c; expires=Mon, 17-Aug-2020 08:02:32 GMT; Max-Age=3600; path=/; domain=soap.upskills.in; HttpOnly
 Expires : Thu, 19 Nov 1981 08:52:00 GMT
 Pragma : no-cache
 #status# : HTTP/1.1 200 OK
 Content-Length : 457
-Date : Mon, 17 Aug 2020 04:45:34 GMT
+Date : Mon, 17 Aug 2020 07:02:32 GMT
 X-Powered-By : PHP/7.2.32
 Content-Type : application/soap+xml; charset=UTF-8
 

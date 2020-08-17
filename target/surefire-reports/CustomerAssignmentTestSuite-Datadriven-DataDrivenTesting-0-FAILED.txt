@@ -1,10 +1,10 @@
 Status: FAILED
-Time Taken: 1381
+Time Taken: 1218
 Size: 0
-Timestamp: Mon Aug 17 10:15:04 IST 2020
+Timestamp: Mon Aug 17 12:32:02 IST 2020
 TestStep: DataDrivenTesting
-Error:java.lang.AssertionError: Cancelling due to failed test step. Expression: (runner.status != com.eviware.soapui.model.testsuite.TestRunner$Status.FAILED)
+Error:groovy.lang.MissingPropertyException: No such property: emailId for class: Script1
 
 ----------------- Messages ------------------------------
-java.lang.AssertionError: Cancelling due to failed test step. Expression: (runner.status != com.eviware.soapui.model.testsuite.TestRunner$Status.FAILED)
-error at line: 29
+groovy.lang.MissingPropertyException: No such property: emailId for class: Script1
+error at line: 22
